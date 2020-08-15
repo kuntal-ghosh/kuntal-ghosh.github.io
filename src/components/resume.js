@@ -66,11 +66,10 @@ class Resume extends Component {
               jobDescription={
                 <div>
                   <div>
-                  I have contributed in a HRM Solution and also several projects of this Company. 
-                 </div>
-                  <div>
-                    • Design, develop, debug and test Application,
+                    I have contributed in a HRM Solution and also several
+                    projects of this Company.
                   </div>
+                  <div>• Design, develop, debug and test Application,</div>
                   <div>• Develop Web Components using modern Technologies.</div>
                 </div>
               }

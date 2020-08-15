@@ -59,28 +59,27 @@ class Resume extends Component {
             <h2>Experience</h2>
 
             <Experience
-              startYear={"july 2019"}
-              endYear={"present"}
-              jobName="Raihana Consulting"
-              designation="Sharepoint Developer"
+              startYear={"Jan 2020"}
+              endYear={"Jun 2020"}
+              jobName="Enlight Solutions"
+              designation="Full Stack Developer"
               jobDescription={
                 <div>
                   <div>
-                    I have contributed in several projects of this Company which
-                    works in Microsoft Technologies.
-                  </div>
+                  I have contributed in a HRM Solution and also several projects of this Company. 
+                 </div>
                   <div>
-                    • Design, develop, debug and test SPFX 2019 Application,
+                    • Design, develop, debug and test Application,
                   </div>
-                  <div>• Develop Webparts using modern Technologies.</div>
+                  <div>• Develop Web Components using modern Technologies.</div>
                 </div>
               }
             />
 
             <Experience
-              startYear={"Oct 2018"}
-              endYear={"April 2019"}
-              jobName="Perky Rabbit "
+              startYear={"Feb 2019"}
+              endYear={"December 2019"}
+              jobName="Codestack SOft "
               designation=".Net Developer"
               jobDescription={
                 <div>
@@ -98,7 +97,7 @@ class Resume extends Component {
                 </div>
               }
             />
-            <Experience
+            {/* <Experience
               startYear={"Nov2018"}
               endYear={"Jan 2019"}
               jobName="QUANTUM METHOD (REMOTE) "
@@ -115,7 +114,7 @@ class Resume extends Component {
                   </div>
                 </div>
               }
-            />
+            /> */}
             <hr style={{ borderTop: "3px solid #e22947" }} />
             <h2>Skills</h2>
             <Skills skill="javascript" progress={100} />

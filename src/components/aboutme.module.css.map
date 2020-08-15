@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,KAAK,CAAC;EACF,UAAU,EAAE,OAAO;EACnB,+BAA+B;EAC/B,UAAU,EAAE,mDAAmD;EAC/D,gCAAgC;EAChC,UAAU,EAAE,2CAA2C;EACvD,sEAAsE;EACtE,QAAQ,EAAE,QAAQ;CACrB",
+    "sources": [
+        "aboutme.module.scss"
+    ],
+    "names": [],
+    "file": "aboutme.module.css"
+}

@@ -1,8 +1,26 @@
 {
-  "main.css": "static/css/main.2d31dd58.css",
-  "main.css.map": "static/css/main.2d31dd58.css.map",
-  "main.js": "static/js/main.875b68d7.js",
-  "main.js.map": "static/js/main.875b68d7.js.map",
-  "static\\media\\aboutme.module.scss": "static/media/aboutme.module.00fe3f84.scss",
-  "static\\media\\profile.jpg": "static/media/profile.284dade4.jpg"
+  "files": {
+    "main.css": "/kuntal711.github.io/static/css/main.e84913fb.chunk.css",
+    "main.js": "/kuntal711.github.io/static/js/main.6094f7da.chunk.js",
+    "main.js.map": "/kuntal711.github.io/static/js/main.6094f7da.chunk.js.map",
+    "runtime-main.js": "/kuntal711.github.io/static/js/runtime-main.b14a0578.js",
+    "runtime-main.js.map": "/kuntal711.github.io/static/js/runtime-main.b14a0578.js.map",
+    "static/css/2.e4346227.chunk.css": "/kuntal711.github.io/static/css/2.e4346227.chunk.css",
+    "static/js/2.6dc7c2dc.chunk.js": "/kuntal711.github.io/static/js/2.6dc7c2dc.chunk.js",
+    "static/js/2.6dc7c2dc.chunk.js.map": "/kuntal711.github.io/static/js/2.6dc7c2dc.chunk.js.map",
+    "index.html": "/kuntal711.github.io/index.html",
+    "precache-manifest.abd5ab45c46e23ae754da89f43283e92.js": "/kuntal711.github.io/precache-manifest.abd5ab45c46e23ae754da89f43283e92.js",
+    "service-worker.js": "/kuntal711.github.io/service-worker.js",
+    "static/css/2.e4346227.chunk.css.map": "/kuntal711.github.io/static/css/2.e4346227.chunk.css.map",
+    "static/css/main.e84913fb.chunk.css.map": "/kuntal711.github.io/static/css/main.e84913fb.chunk.css.map",
+    "static/js/2.6dc7c2dc.chunk.js.LICENSE.txt": "/kuntal711.github.io/static/js/2.6dc7c2dc.chunk.js.LICENSE.txt",
+    "static/media/profile.jpg": "/kuntal711.github.io/static/media/profile.284dade4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b14a0578.js",
+    "static/css/2.e4346227.chunk.css",
+    "static/js/2.6dc7c2dc.chunk.js",
+    "static/css/main.e84913fb.chunk.css",
+    "static/js/main.6094f7da.chunk.js"
+  ]
 }

@@ -1,9 +1,8 @@
 ### Hi there, I'm  Kuntal Ghosh 👋
 
-## I'm a 😍😍 JavaScript Lover 😍😍!
+## I'm a 😍😍 Full Stack Web & Mobile App Developer 😍😍!
 - 🔭 I’m currently working Enlight Solutions!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Learn React, React Native, Vue, Node
 - ⚡ Fun fact: I love to Exlopre the world 
 
 ### Connect with me:

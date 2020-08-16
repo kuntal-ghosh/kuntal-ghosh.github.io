@@ -1,6 +1,6 @@
 ### Hi there, I'm  Kuntal Ghosh 👋
 
-- 🔭 I’m currently working Enlight Solutions!
+- 🔭 I’m currently working at Enlight Solutions!
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to Exlopre the world 
 
@@ -10,10 +10,9 @@ I am a Software Engineer from Bangladesh 🇦🇹. I am interested in, write abo
 ## 📬 Get in touch
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/kuntal-ghosh/)
-<a href="https://twitter.com/jayehernandez_" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/kuntal.ghosh.3597789) 
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/@kuntalghosh.ewu) 
-
+<a href="https://twitter.com/jayehernandez_" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
 
 ## &#x1f4c8; My GitHub Stats
 

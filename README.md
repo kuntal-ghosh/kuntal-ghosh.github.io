@@ -1,4 +1,8 @@
-Hey 👋🏻,
+### Hi there, I'm  Kuntal Ghosh 👋
+
+- 🔭 I’m currently working Enlight Solutions!
+- 🌱 I’m currently learning everything 🤣
+- ⚡ Fun fact: I love to Exlopre the world 
 
 I am a Software Engineer from Bangladesh 🇦🇹. I am interested in, write about and develop (open source) software solutions for and with JavaScript, TypeScript, ReactJs,Angular, NodeJS and Asp.Net Core.
 
@@ -9,6 +13,7 @@ I am a Software Engineer from Bangladesh 🇦🇹. I am interested in, write abo
 - Blog: [dev.to/kuntalghosh][4]
 - Web: [kuntalghosh.ga][1]
 - LinkedIn: [linkedin.com/in/kuntal-ghosh][2]
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/kuntal-ghosh/) 
 
 
 ## &#x1f4c8; My GitHub Stats

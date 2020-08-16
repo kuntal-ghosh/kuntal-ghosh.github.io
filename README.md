@@ -5,10 +5,10 @@ I am a Software Engineer from Bangladesh 🇦🇹. I am interested in, write abo
 
 ## 📬 Get in touch
 
-- Twitter: [twitter.com/natterstefan][3]
-- Blog: [dev.to/natterstefan][4]
-- Web: [natterstefan.me][1]
-- LinkedIn: [linkedin.com/in/natterstefan][2]
+- Twitter: [twitter.com/kuntal__ghosh][3]
+- Blog: [dev.to/kuntalghosh][4]
+- Web: [kuntalghosh.ga][1]
+- LinkedIn: [linkedin.com/in/kuntal-ghosh][2]
 
 
 ## &#x1f4c8; My GitHub Stats

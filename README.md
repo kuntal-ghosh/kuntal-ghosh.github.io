@@ -1,39 +1,47 @@
-### Hi there, I'm  Kuntal Ghosh 👋
+[![Hello 👋🏻](https://pbs.twimg.com/profile_banners/214395203/1594729195/1500x500)][1]
 
-## I'm a 😍😍 Full Stack Web & Mobile App Developer 😍😍!
-- 🔭 I’m currently working Enlight Solutions!
-- 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to Exlopre the world 
+Hey 👋🏻,
 
-### Connect with me:
+I am a Software Engineer from Bangladesh 🇦🇹. I am interested in, write about and develop (open source) software solutions for and with JavaScript, TypeScript, ReactJs,Angular, NodeJS and Asp.Net Core.
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/kuntal-ghosh/) 
+You can see what I am currently up to on [natterstefan.me][1].
 
+## 📬 Get in touch
 
-<br />
+- Twitter: [twitter.com/natterstefan][3]
+- Blog: [dev.to/natterstefan][4]
+- Web: [natterstefan.me][1]
+- LinkedIn: [linkedin.com/in/natterstefan][2]
 
-### Languages and Tools:
+📧 Sign up for my [newsletter][5].
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+## 🌳 My Digital Garden
 
-<br />
-<br />
+You can find my blog posts on [dev.to/natterstefan][4]. I write about things
+I am familiar with including **JavaScript**, **TypeScript**, and **ReactJS**.
+I also do reviews of software and hardware.
 
-<img align="left" alt="kuntal ghosh github stata"  src="https://github-readme-stats.vercel.app/api?username=kuntal-ghosh&show_icons=true"/>
+## 📕 Latest Blog Posts
 
+<!-- BLOG-POST-LIST:START -->
+- [My Top 22 Chrome Extensions [Week 32/2020 in Review]](https://dev.to/natterstefan/my-top-22-chrome-extensions-week-32-2020-in-review-1224)
+- [Three CLI Tools I use every day [Week 31/2020 in Review]](https://dev.to/natterstefan/three-cli-tools-i-use-every-day-week-31-2020-in-review-5g7)
+- ["Improve Your Online Presence" by Catalin Pit [Book Review]](https://dev.to/natterstefan/improve-your-online-presence-by-catalin-pit-book-review-1558)
+- [These 3 snippet managers and collection tools increase your productivity. [Week 30/2020 in Review]](https://dev.to/natterstefan/these-snippet-managers-and-snippets-collection-tools-increase-your-productivity-week-30-2020-in-review-102i)
+- [I take my notes in Notion and Roam Research, and you?  [Week 29/2020 in Review]](https://dev.to/natterstefan/i-take-my-notes-in-notion-and-roam-research-and-you-week-29-2020-in-review-3fbb)
+<!-- BLOG-POST-LIST:END -->
 
+## &#x1f4c8; My GitHub Stats
+
+<a href="https://github.com/kuntal-ghosh/kuntal-ghosh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuntal-ghosh&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/kuntal-ghosh/kuntal-ghosh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuntal-ghosh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
+</a>
+
+[1]: https://kuntal-ghosh.me/?utm_source=github.com&utm_medium=gh-profile-kuntal-ghosh&utm_campaign=kuntal-ghosh
+[2]: https://www.linkedin.com/in/kuntal-ghosh/
+[3]: https://twitter.com/kuntal__ghosh
+[4]: https://dev.to/kuntalghosh

@@ -11,9 +11,10 @@ I am a Software Engineer from Bangladesh 🇦🇹. I am interested in, write abo
 
 - Twitter: [twitter.com/kuntal__ghosh][3]
 - Blog: [dev.to/kuntalghosh][4]
-- Web: [kuntalghosh.ga][1]
-- LinkedIn: [linkedin.com/in/kuntal-ghosh][2]
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/kuntal-ghosh/) 
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/kuntal-ghosh/)
+<a href="https://twitter.com/kuntal__ghosh?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @kuntal__ghosh</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/kuntal.ghosh.3597789) 
+[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/@kuntalghosh.ewu) 
 
 
 ## &#x1f4c8; My GitHub Stats

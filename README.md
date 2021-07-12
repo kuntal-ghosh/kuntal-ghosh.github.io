@@ -1,10 +1,10 @@
 ### Hi there, I'm  Kuntal Ghosh 👋
 
-- 🔭 I’m currently working at Enlight Solutions!
+- 🔭 I’m currently working at Linkedsage Limited!
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to Exlopre the world 
 
-I am a Software Engineer from Bangladesh 🇦🇹. I am interested in, writing about and develop (open source) software solutions for and with JavaScript, TypeScript, ReactJs,Angular, NodeJS and Asp.Net Core.
+I am a Senior Software Engineer from Bangladesh 🇦🇹. I am interested in, writing about and develop (open source) software solutions for and with JavaScript, TypeScript, ReactJs,Angular, NodeJS and Asp.Net Core.
 
 
 ## 📬 Get in touch
